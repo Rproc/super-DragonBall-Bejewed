@@ -1,0 +1,37 @@
+Manual
+
+UFRRJ TABALHO DE COMPUTAÇÃO 1
+
+
+Jogo SuperDragonjewelled
+
+-Autores:
+
+Douglas Castro d Silva
+Douglas Moraes
+Renan Procopio
+
+- Instalação
+
+1 - Descompactar o arquivo rar(caso esteja)
+2 - execute o comando ./J no terminal iniciar
+
+Menu Inicial
+
+no menu inicial há 2 itens 
+
+1 - Play: o direcionará para o jogo
+2 - Recrodes: mostra os recordes de todos os jogadores
+
+-Como Jogar:
+
+	vc deve clicar nas esferas coloridas para muda-las de lugar, quando uma combinação de 3 ou mais esferas é formada,
+	elas serão explodidas as de cima cairão e você ganhará pontos(50 por pedra caso quebre 3,70 por pedra caso quebre mais q 3 e menos que 6 e 100 pontos por pedra caso quebre mais de 6)
+	
+	o Mestre Kame(o homem que se encontra na praia) é o seu mentor, click nele sempre que precisar de algum conselho. Cada conselho custa 100 pontos
+
+	na parte Superior da tela se encontra a barra de tempo.
+
+-Fim do jogo
+
+	O Jogo termina  quando goku chegar ao outro lado da tela ou quando não há mais movimentos possiveis, você será direcionado para uma tela de recordes caso tenha quebrado algum.
